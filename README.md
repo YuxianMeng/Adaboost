@@ -1,6 +1,5 @@
 # Adaboost
 An implementation of &lt;Improved boosting algorithms using  confidence-rated predictions>, Schapire, 1999
-By Yuxian Meng at Peking University
 
 ##class Adaboost
 Basic Adaboost to solve two-class problem
